@@ -59,7 +59,7 @@ First, clone the repo to your local machine:
 
 ```bash
 git clone https://github.com/your-username/multiple-disease-prediction.git
-
+```
 
 ## 📂 **Project Files**
 
