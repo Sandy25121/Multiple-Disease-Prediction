@@ -61,38 +61,56 @@ First, clone the repo to your local machine:
 git clone https://github.com/your-username/multiple-disease-prediction.git
 
 
-```
-##📂 Project Files
+## 📂 **Project Files**
+
 Here’s a quick look at the files included:
 
-1. Multiple Diseases Prediction.jpg: Visual overview of the project.
-2.Parkinson_disease_prediction.pkl: Model for Parkinson's disease predictions.
-3.app.py: The main Streamlit app.
-4.encoder_kidney_diseases.pkl: Encoder file for kidney disease.
-5.indian_liver_patient.xlsx: Dataset for liver disease.
-kidney_disease.ipynb: Jupyter notebook for training the kidney disease model.
-kidney_disease.xlsx: Dataset for kidney disease.
-kidney_disease_prediction.pkl: Model for kidney disease predictions.
-liver_disease.ipynb: Jupyter notebook for training the liver disease model.
-liver_disease_prediction.pkl: Model for liver disease predictions.
-parkinsons.xlsx: Dataset for Parkinson’s disease.
-parkinsons_disease.ipynb: Jupyter notebook for training the Parkinson’s disease model.
-
+- **Multiple Diseases Prediction.jpg**: Visual overview of the project.
+- **Parkinson_disease_prediction.pkl**: Model for Parkinson's disease predictions.
+- **app.py**: The main Streamlit app.
+- **encoder_kidney_diseases.pkl**: Encoder file for kidney disease.
+- **indian_liver_patient.xlsx**: Dataset for liver disease.
+- **kidney_disease.ipynb**: Jupyter notebook for training the kidney disease model.
+- **kidney_disease.xlsx**: Dataset for kidney disease.
+- **kidney_disease_prediction.pkl**: Model for kidney disease predictions.
+- **liver_disease.ipynb**: Jupyter notebook for training the liver disease model.
+- **liver_disease_prediction.pkl**: Model for liver disease predictions.
+- **parkinsons.xlsx**: Dataset for Parkinson’s disease.
+- **parkinsons_disease.ipynb**: Jupyter notebook for training the Parkinson’s disease model.
 
 ---
 
-📊 Model Evaluation Metrics
+## 📊 **Model Evaluation Metrics**
+
 To ensure the models are accurate, we use several evaluation metrics:
 
-Classification Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC.
-Confusion Matrix: For more detailed analysis of predictions.
+- **Classification Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC.
+- **Regression Metrics**: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE).
+- **Confusion Matrix**: For more detailed analysis of predictions.
 
-💡 Project Impact
-This system will help make healthcare more accessible by improving the speed and accuracy of disease predictions. With continuous improvements to the data quality and models, this tool can become essential for early disease detection and improving patient outcomes. 🌱
+---
 
-📝 Project Deliverables
-Source Code: Python scripts for data processing, model training, and the Streamlit app.
-Streamlit App: A fully functional web app for disease predictions.
-Documentation: Detailed explanation of models, methodologies, and deployment steps.
-Presentation: A summary of results and key insights from the project.
+## 🌐 **Deploying the App**
 
+(Optional) You can deploy the app on platforms like **AWS** to make it accessible to users worldwide.
+
+---
+
+## 💡 **Project Impact**
+
+This system will help make **healthcare more accessible** by improving the speed and accuracy of disease predictions. With continuous improvements to the data quality and models, this tool can become essential for **early disease detection** and **improving patient outcomes**. 🌱
+
+---
+
+## 📝 **Project Deliverables**
+
+- **Source Code**: Python scripts for data processing, model training, and the Streamlit app.
+- **Streamlit App**: A fully functional web app for disease predictions.
+- **Documentation**: Detailed explanation of models, methodologies, and deployment steps.
+- **Presentation**: A summary of results and key insights from the project.
+
+---
+
+## 🔒 **License**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
