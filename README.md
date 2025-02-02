@@ -65,11 +65,11 @@ git clone https://github.com/your-username/multiple-disease-prediction.git
 ##📂 Project Files
 Here’s a quick look at the files included:
 
-Multiple Diseases Prediction.jpg: Visual overview of the project.
-Parkinson_disease_prediction.pkl: Model for Parkinson's disease predictions.
-app.py: The main Streamlit app.
-encoder_kidney_diseases.pkl: Encoder file for kidney disease.
-indian_liver_patient.xlsx: Dataset for liver disease.
+1. Multiple Diseases Prediction.jpg: Visual overview of the project.
+2.Parkinson_disease_prediction.pkl: Model for Parkinson's disease predictions.
+3.app.py: The main Streamlit app.
+4.encoder_kidney_diseases.pkl: Encoder file for kidney disease.
+5.indian_liver_patient.xlsx: Dataset for liver disease.
 kidney_disease.ipynb: Jupyter notebook for training the kidney disease model.
 kidney_disease.xlsx: Dataset for kidney disease.
 kidney_disease_prediction.pkl: Model for kidney disease predictions.
